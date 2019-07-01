@@ -1,7 +1,7 @@
 # homebrew-taps
  🍻 My custom taps for the missing package manager for macOS https://brew.sh
 
-* NIBTools (2014r649) - Commodore 1541/1571 disk image nibbler
+* **NIBTools (2014r649) - Commodore 1541/1571 disk image nibbler**
   (C) 2004-12 Peter Rittwage, Markus Brenner, and friends
   Based on routines from MNIB, which is (C) 2000-04 Markus Brenner.
   
