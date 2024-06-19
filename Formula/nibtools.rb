@@ -1,10 +1,9 @@
 class Nibtools < Formula
   desc "Commodore 1541/1571 disk image nibbler"
   homepage "https://c64preservation.com/dp.php?pg=nibtools"
-  url "https://c64preservation.com/svn/nibtools/trunk", :using => :svn, :revision => "649"
+  url "https://github.com/OpenCBM/nibtools.git", :using => :git, :revision => "master"
   version "2014"
-  sha256 "4e4bb0d2872084ae45d208ccf0868e1901fab99eb17e972e2f0351de63ac840a"
-
+  
   depends_on "cc65" => :build
   depends_on "opencbm" => :build
   depends_on "opencbm"
